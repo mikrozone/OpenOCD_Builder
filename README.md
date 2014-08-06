@@ -3,7 +3,7 @@ OpenOCD_Builder
 
 script for download and build of the OpenOCD.exe for win32 under CygWin.
 
-Usage:
+Usage:<br>
 1. install cygwin<br>
 2. add a wget, tar, gawk, xz, bzip2 packages<br>
 3. run build-latest-cygwin.sh<br>
